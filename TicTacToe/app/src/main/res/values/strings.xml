@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="lets_play">Let’s play</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="player_x">Player X</string>
+    <string name="player_0">Player 0</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="restart">Restart</string>
+    <string name="game_over">Game Over</string>
+    <string name="winner_is">The winner is: %1$s</string>
+    <string name="draw">Tie</string>
+    <string name="match_history">Match History</string>
+    <string name="player_x_">Player X: %1$s</string>
+    <string name="player_o">Player O: %1$s</string>
+    <string name="winner">Winner: %1$s 🏆</string>
+    <string name="draw_result">Result: Draw</string>
+    <string name="match_time">Match Time: %1$s</string>
+</resources>

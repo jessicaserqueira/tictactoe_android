@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="neutral_50">#FFFFFFFF</color>
+    <color name="neutral_100">#FFF2F2F2</color>
+    <color name="neutral_100_alpha">#0D000000</color>
+    <color name="neutral_200">#FFE0E0E0</color>
+    <color name="neutral_200_alpha">#1F000000</color>
+    <color name="neutral_300">#FFBDBDBD</color>
+    <color name="neutral_300_alpha">#42000000</color>
+    <color name="neutral_400">#FF9E9E9E</color>
+    <color name="neutral_500">#FF757575</color>
+    <color name="neutral_600">#FF2A2A2A</color>
+    <color name="neutral_700">#FF000000</color>
+    <color name="neutral_grad_start">#FF000000</color>
+    <color name="neutral_grad_end">#FF424242</color>
+
+    <color name="black_solid_100">#1F000000</color>
+    <color name="black_solid_200">#33000000</color>
+    <color name="black_solid_300">#66000000</color>
+    <color name="black_solid_400">#8C000000</color>
+    <color name="black_solid_500">#B8000000</color>
+    <color name="black_solid_600">#E0000000</color>
+    <color name="black_solid_700">#FF000000</color>
+
+    <color name="white_solid_100">#12FFFFFF</color>
+    <color name="white_solid_200">#23FFFFFF</color>
+    <color name="white_solid_300">#66FFFFFF</color>
+    <color name="white_solid_400">#8CFFFFFF</color>
+    <color name="white_solid_500">#B8FFFFFF</color>
+    <color name="white_solid_600">#E0FFFFFF</color>
+    <color name="white_solid_700">#FFFFFFFF</color>
+
+    <color name="system_background">#FFFFFFFF</color>
+    <color name="system_elevation">#FFFFFFFF</color>
+    <color name="system_tooltip">#FF212121</color>
+    <color name="system_overlay">#B8000000</color>
+
+    <color name="primary_100">#FFF7F2FF</color>
+    <color name="primary_200">#FFEADEFF</color>
+    <color name="primary_300">#FFD0B3FF</color>
+    <color name="primary_400">#FFA157FF</color>
+    <color name="primary_600">#FF8422E5</color>
+    <color name="primary_600_contrast">#FF8422E5</color>
+    <color name="primary_700">#FF6624B2</color>
+    <color name="primary_grad_start">#FF6E24E0</color>
+    <color name="primary_grad_end">#FFD75CFF</color>
+
+    <color name="red_100">#FFFFEBEE</color>
+    <color name="red_200">#FFFFD1D5</color>
+    <color name="red_300">#FFFFADAD</color>
+    <color name="red_400">#FFFF8080</color>
+    <color name="red_500">#FFEF5350</color>
+    <color name="red_600">#FFE81A16</color>
+    <color name="red_600_contrast">#FFE81A16</color>
+    <color name="red_700">#FFCC1818</color>
+    <color name="red_grad_start">#FFCE0D09</color>
+    <color name="red_grad_end">#FFFA5C39</color>
+
+    <color name="yellow_100">#FFFFF8E1</color>
+    <color name="yellow_200">#FFFFECB3</color>
+    <color name="yellow_300">#FFFFDB6D</color>
+    <color name="yellow_400">#FFFFD249</color>
+    <color name="yellow_500">#FFFFC328</color>
+    <color name="yellow_600">#FFFAAF00</color>
+    <color name="yellow_600_contrast">#FFFAAF00</color>
+    <color name="yellow_700">#FFEBA000</color>
+    <color name="yellow_grad_start">#FFEF6D16</color>
+    <color name="yellow_grad_end">#FFFFDF14</color>
+
+    <color name="cyan_100">#FFE0F7FA</color>
+    <color name="cyan_200">#FFB2EBF2</color>
+    <color name="cyan_300">#FF6EDBE9</color>
+    <color name="cyan_400">#FF44D0E2</color>
+    <color name="cyan_500">#FF24BED1</color>
+    <color name="cyan_600">#FF009FB2</color>
+    <color name="cyan_600_contrast">#FF009FB2</color>
+    <color name="cyan_700">#FF007E8A</color>
+    <color name="cyan_grad_start">#FF0096A7</color>
+    <color name="cyan_grad_end">#FF10EBE0</color>
+
+    <color name="blue_100">#FFE3F2FD</color>
+    <color name="blue_200">#FFBBDEFB</color>
+    <color name="blue_300">#FF7AC1FA</color>
+    <color name="blue_400">#FF5FB4FF</color>
+    <color name="blue_500">#FF339EF5</color>
+    <color name="blue_600">#FF0075DB</color>
+    <color name="blue_600_contrast">#FF0075DB</color>
+    <color name="blue_700">#FF065BBC</color>
+    <color name="blue_grad_start">#FF285BDE</color>
+    <color name="blue_grad_end">#FF30C3FC</color>
+
+    <color name="purple_100">#FFF6ECF8</color>
+    <color name="purple_200">#FFE3C5EB</color>
+    <color name="purple_300">#FFCF99DD</color>
+    <color name="purple_400">#FFC074D4</color>
+    <color name="purple_500">#FFAD3BC1</color>
+    <color name="purple_600">#FF8A0CAB</color>
+    <color name="purple_600_contrast">#FF8A0CAB</color>
+    <color name="purple_700">#FF73118D</color>
+    <color name="purple_grad_start">#FF7D0C9A</color>
+    <color name="purple_grad_end">#FFCA1EC3</color>
+
+</resources>

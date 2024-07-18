@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="lets_play">Vamos jogar</string>
+    <string name="tic_tac_toe">Jogo da Velha</string>
+    <string name="player_x">Jogador X</string>
+    <string name="player_0">Jogador 0</string>
+    <string name="enter_your_name">Insira seu nome</string>
+    <string name="restart">Reiniciar</string>
+    <string name="game_over">Fim de Jogo</string>
+    <string name="winner_is">O ganhador é: %1$s</string>
+    <string name="draw">Empate</string>
+    <string name="match_history">Histórico de Partida</string>
+    <string name="player_x_">Jogador X: %1$s</string>
+    <string name="player_o">Jogador O: %1$s</string>
+    <string name="winner">Vencedor: %1$s 🏆</string>
+    <string name="draw_result">Resultado: Empate</string>
+    <string name="match_time">Hora do jogo: %1$s</string>
+
+</resources>

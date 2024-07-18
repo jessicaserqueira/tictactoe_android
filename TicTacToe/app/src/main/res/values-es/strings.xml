@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="lets_play">Vamos a jugar</string>
+    <string name="tic_tac_toe">Tres en Raya</string>
+    <string name="player_x">Jugador X</string>
+    <string name="player_0">Jugador 0</string>
+    <string name="enter_your_name">Inserte su nombre</string>
+    <string name="restart">Reiniciar</string>
+    <string name="game_over">Fin del Juego</string>
+    <string name="winner_is">El ganador es: %1$s</string>
+    <string name="draw">Empate</string>
+    <string name="match_history">Historial de Partidos</string>
+    <string name="player_x_">Jugador X: %1$s</string>
+    <string name="player_o">Jugador O: %1$s</string>
+    <string name="winner">Ganador: %1$s 🏆</string>
+    <string name="draw_result">Resultado: Empate</string>
+    <string name="match_time">Hora del partido: %1$s</string>
+</resources>
