@@ -1,8 +1,10 @@
 # 🎮 Tic Tac Toe Android APP
 
-## 📝 Descrição
+## 📝 Descrição de Contexto do Problema e Proposta para Solução
 
-Esta aplicação é uma versão Android do clássico jogo Tic Tac Toe (Jogo da Velha), desenvolvida em Kotlin e utilizando o Jetpack Compose para a interface. O aplicativo possibilita que dois jogadores disputem partidas no mesmo dispositivo, oferecendo uma experiência multiplayer local e mantendo um historico de cada partida.
+Este projeto é uma implementação do clássico jogo Tic Tac Toe (Jogo da Velha) para dispositivos Android, desenvolvido em Kotlin com Jetpack Compose. O objetivo foi criar uma experiência de jogo multiplayer local, onde dois jogadores podem competir diretamente no mesmo dispositivo. Utilizando Jetpack Compose, foi possível criar uma interface de usuário responsiva, adaptável a diferentes tamanhos de tela.
+
+A solução inclui a implementação da lógica do jogo, gerenciamento de estados para detecção de vitória, empate e reinicialização do jogo. Além disso, foi desenvolvido um histórico de partidas que registra os resultados das jogadas, proporcionando aos usuários a capacidade de revisar partidas anteriores.
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -18,6 +20,12 @@ Esta aplicação é uma versão Android do clássico jogo Tic Tac Toe (Jogo da V
 - **Histórico de Partidas**: Mantém um registro de todas as partidas jogadas, incluindo os resultados e os jogadores.
 - **Interface Amigável**: Interface simples para uma melhor experiência do usuário.
 - **Adaptação a Diversos Dispositivos**: O layout responsivo se adapta bem a diferentes tamanhos de tela.
+
+## 🛠 Melhorias Futuras:
+
+- **Bug de Nome de Jogadores**: Corrigir bug que permite iniciar o jogo sem inserir os nomes dos jogadores.
+- **Tabuleiro de Tamanho Variável**: Implementar funcionalidade para escolher o tamanho do tabuleiro de jogo (além do padrão 3x3).
+- **Card de Vitória com Animação**: Ao finalizar a partida, exibir na tela o card do jogador vencedor cobrindo a tela com uma animação.
 
 ## 🔧 Configuração do Projeto
 
