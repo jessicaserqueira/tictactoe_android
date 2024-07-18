@@ -45,6 +45,9 @@ A solução inclui a implementação da lógica do jogo, gerenciamento de estado
 
 Inicie o emulador Android ou conecte um dispositivo físico e execute o projeto diretamente do Android Studio.
 
+![Design sem nome](https://github.com/user-attachments/assets/4ed1afbc-4f54-4ef7-ab8d-7751327b5edb)
+
+
 <h4 align="center">
     Feito com ❤️ by <a href="https://www.linkedin.com/in/jessica-serqueira-939802ba/" target="_blank">Jéssica Serqueira</a>
 </h4>
